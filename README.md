@@ -12,7 +12,7 @@ This project is a practical demonstration of building a task management applicat
 ## Getting Started
 1. Clone this project:
 ```
-git clone https://github.com/ranandasatria/fgo24-react-todo
+git clone https://github.com/ranandasatria/fgo24-react-redux-persist
 ```
 
 2. Install the depedencies:
